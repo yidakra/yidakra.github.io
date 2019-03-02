@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: arkadiyjs.github.io
-Token: d6354b729f5acfadeccdf64b5c9e55e99972c462021f60e3f068c854d709364a
