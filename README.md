@@ -1,7 +1,6 @@
 The views expressed here are my personal views, not those of the projects I'm involved with.
 
 ---
-Please send comments on these web pages to **deliev at gjh period sk**.
 
 <p><a href="http://www.gnu.org/" title=
 "The GNU Project"><img alt="GNU" src="https://www.gnu.org/graphics/heckert_gnu.png" width=
